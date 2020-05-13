@@ -1,5 +1,5 @@
 '''
-Name: pynb
+Name: pypca
 By: CDoyle
 Implementation of PCA
 '''
